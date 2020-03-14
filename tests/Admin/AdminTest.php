@@ -12,7 +12,7 @@
  */
 declare(strict_types=1);
 
-namespace Modules\tests\MyPrivate\Admin;
+namespace Modules\MyPrivate\tests\Admin;
 
 /**
  * @internal
