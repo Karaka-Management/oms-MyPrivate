@@ -7,7 +7,7 @@
         "name": "Private",
         "uri": null,
         "target": "self",
-        "icon": "fa fa-lock",
+        "icon": "lock",
         "order": 20,
         "from": "MyPrivate",
         "permission": { "permission": 2, "category": null, "element": null },
